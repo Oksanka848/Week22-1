@@ -1,4 +1,4 @@
-var moment = require('moment');
+let moment = require('moment');
 require('moment/locale/ru');
 let day = moment();
     moment.locale('ru');
